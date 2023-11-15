@@ -5,8 +5,7 @@
 Hello, I'm Dillon Adriyan, a Junior Web Developer based in Pemalang, Jawa Tengah, Indonesia. I'm passionate about creating web applications and solving problems through coding.
 
 ## My Skills
-- ![PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="200" height="100">
+- <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="auto" height="80">
 - JavaScript
 - Python
 
