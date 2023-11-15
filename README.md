@@ -1,11 +1,11 @@
 # Dillon Adriyan
-Junior Web Developer | Pemalang, Jawa Tengah, Indonesia
+🖥️ Junior Web Developer | 🚩 Pemalang, Jawa Tengah, Indonesia
 
 
 Hello, I'm Dillon Adriyan, a Junior Web Developer based in Pemalang, Jawa Tengah, Indonesia. I'm passionate about creating web applications and solving problems through coding.
 
 ## My Skills
-- PHP
+- ![PHP](https://commons.wikimedia.org/wiki/File:PHP-logo.svg)
 - JavaScript
 - Python
 
